@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ddbbd78-ad6a-4064-ad1f-dfcdcdd95dd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/YoyoJavaLearning.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ArrayFindMissingNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/Bottle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/FindDuplicatedNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/FindMostFrequentWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TwoLevelArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ValidBracketTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BubbleSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/InsertionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/ListTableReverse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/SelectSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/SequentialSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/TestMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/design/module/behavior/based/observer/ObserverDesignModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/design/module/creator/factory/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/design/module/creator/single/SinglePattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/design/module/document.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/redis/Doc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/ThreadsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/producer/comsumer/example/Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/producer/comsumer/example/Producer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/producer/comsumer/example/ProductFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/producer/comsumer/example/ThreadsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/threads/CallableA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/threads/RunnableA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/threads/ThreadA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/threads/ThreadsExample.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2E6w24nw9at36VDjvMCBZu0Cq8D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/ying/repo/YoyoJavaLearning&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.general&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/yoyo/test/threads/capacityprodcons" />
+      <recent name="$PROJECT_DIR$/src/com/yoyo/test/threads/producercomsumer" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.yoyo.test.basic" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.yoyo.test.threads.producercomsumer" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.BinarySearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yoyo.test.basicAlgorithm.BinarySearch" />
+      <module name="YoyoJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yoyo.test.basicAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindDuplicatedNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yoyo.test.algorithmProblem.FindDuplicatedNumbers" />
+      <module name="YoyoJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yoyo.test.basicAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SelectSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yoyo.test.basicAlgorithm.SelectSort" />
+      <module name="YoyoJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yoyo.test.basicAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SequentialSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yoyo.test.basicAlgorithm.SequentialSearch" />
+      <module name="YoyoJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yoyo.test.basicAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TwoLevelArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.yoyo.test.algorithmProblem.TwoLevelArrays" />
+      <module name="YoyoJavaLearning" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.yoyo.test.basicAlgorithm.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.SelectSort" />
+        <item itemvalue="Application.FindDuplicatedNumbers" />
+        <item itemvalue="Application.SequentialSearch" />
+        <item itemvalue="Application.TwoLevelArrays" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ddbbd78-ad6a-4064-ad1f-dfcdcdd95dd5" name="Changes" comment="" />
+      <created>1661929132253</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661929132253</updated>
+      <workItem from="1661929134310" duration="27503000" />
+      <workItem from="1662376713821" duration="1273000" />
+      <workItem from="1662450725449" duration="602000" />
+      <workItem from="1662452103332" duration="378000" />
+      <workItem from="1663834721489" duration="3835000" />
+      <workItem from="1663899820507" duration="13600000" />
+      <workItem from="1664011429503" duration="1048000" />
+      <workItem from="1664265481224" duration="18956000" />
+      <workItem from="1664728763199" duration="2193000" />
+      <workItem from="1665384566020" duration="1994000" />
+      <workItem from="1665399538610" duration="1246000" />
+      <workItem from="1665412815742" duration="158000" />
+      <workItem from="1665413136080" duration="60016000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/TestMain.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/ListTableReverse.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/QuickSort.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ArrayFindMissingNum.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ArrayFindMissingNum.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/Bottle.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/Bottle.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/Bottle.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TestMain.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TestMain.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TestMain.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TwoLevelArrays.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TwoLevelArrays.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TwoLevelArrays.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java</url>
+          <line>30</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
