@@ -2,50 +2,30 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1ddbbd78-ad6a-4064-ad1f-dfcdcdd95dd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/YoyoJavaLearning.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ArrayFindMissingNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/Bottle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/FindDuplicatedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/FindMostFrequentWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TwoLevelArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ValidBracketTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/InsertionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/ListTableReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/SelectSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/SequentialSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/TestMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/design/module/behavior/based/observer/ObserverDesignModule.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/design/module/creator/factory/abstractfactory/AbstractFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/design/module/creator/single/SinglePattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/design/module/document.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/redis/Doc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/capacity/producer/consumer/ThreadsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/producer/comsumer/example/Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/producer/comsumer/example/Producer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/producer/comsumer/example/ProductFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/producer/comsumer/example/ThreadsExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/threads/CallableA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/threads/RunnableA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/threads/ThreadA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/threads/threads/ThreadsExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/tree/TreeTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ArrayFindMissingNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/ArrayFindMissingNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/Bottle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/Bottle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/FindDuplicatedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/FindDuplicatedNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/FindMostFrequentWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/FindMostFrequentWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/PassByValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/PassByValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TwoLevelArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/BfsDfs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ValidBracketTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/ValidBracketTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/BinarySearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/sort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/sort/InsertionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/ListTableReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/ListTableReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/sort/QuickSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/SelectSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/sort/SelectSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/SequentialSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/SequentialSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/TestMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/TestMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/design/module/behavior/based/observer/ObserverDesignModule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/designpatterns/behavior/based/observer/ObserverPattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/design/module/creator/factory/abstractfactory/AbstractFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/designpatterns/creator/factory/abstractfactory/AbstractFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/design/module/creator/single/SinglePattern.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/designpatterns/creator/single/SinglePattern.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/design/module/document.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/designpatterns/Document.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/yoyo/test/redis/Doc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/yoyo/test/middleware/redis/Doc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,6 +181,7 @@
       <workItem from="1665399538610" duration="1246000" />
       <workItem from="1665412815742" duration="158000" />
       <workItem from="1665413136080" duration="60016000" />
+      <workItem from="1665894104819" duration="1740000" />
     </task>
     <servers />
   </component>
@@ -222,92 +203,92 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/TestMain.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/TestMain.java</url>
           <line>4</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/ListTableReverse.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/ListTableReverse.java</url>
           <line>43</line>
           <option name="timeStamp" value="7" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/QuickSort.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/sort/QuickSort.java</url>
           <line>29</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ArrayFindMissingNum.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/ArrayFindMissingNum.java</url>
           <line>21</line>
           <option name="timeStamp" value="12" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/ArrayFindMissingNum.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/ArrayFindMissingNum.java</url>
           <line>71</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/Bottle.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/Bottle.java</url>
           <line>17</line>
           <option name="timeStamp" value="16" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/Bottle.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/Bottle.java</url>
           <line>23</line>
           <option name="timeStamp" value="17" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/Bottle.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/Bottle.java</url>
           <line>18</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TestMain.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/TestMain.java</url>
           <line>9</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TestMain.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/TestMain.java</url>
           <line>10</line>
           <option name="timeStamp" value="24" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TestMain.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/problem/TestMain.java</url>
           <line>11</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TwoLevelArrays.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/BfsDfs.java</url>
           <line>23</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TwoLevelArrays.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/BfsDfs.java</url>
           <line>22</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithmProblem/TwoLevelArrays.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/BfsDfs.java</url>
           <line>24</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/BinarySearch.java</url>
           <line>31</line>
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/BinarySearch.java</url>
           <line>34</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/BinarySearch.java</url>
           <line>39</line>
           <option name="timeStamp" value="41" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/yoyo/test/basicAlgorithm/BinarySearch.java</url>
+          <url>file://$PROJECT_DIR$/src/com/yoyo/test/algorithm/basic/search/BinarySearch.java</url>
           <line>30</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
