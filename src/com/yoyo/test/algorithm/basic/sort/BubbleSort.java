@@ -88,8 +88,8 @@ public class BubbleSort {
 
     /**
      * 优化方案，
-     * 1， 设置一个标志位，记录上一次排序是否有交换，没有这可以提前退出循环
-     * 2， 记录上一次最后交换的位置，作为下一次循环的结束边界，  最后一次比较说明之后的元素已经排好序，无需无意义的比较
+     * 1， 设置一个标志位，记录上一次排序是否有交换，没有这可以提前退出循环 set hasSwap
+     * 2， 记录上一次最后交换的位置，作为下一次循环的结束边界，  最后一次比较说明之后的元素已经排好序，无需无意义的比较  set lastSwapIndex
      * 3， 双向冒泡排序，从左往右比较一次，然后从右往左比较一次，以此类推， CocktailSort
      *
      * @param originalList
@@ -103,7 +103,7 @@ public class BubbleSort {
         int count = 0;
         while (left < right) {
 
-            for (int i = left; i < right; i++) { // 保证originalList[right] 是最大的
+            for (int i = left; i < right; i++) { // 从左到右，由小到大进行交换排序，保证originalList[right] 是最大的
                 if (originalList[i] > originalList[i + 1]) {
                     swap(originalList, i, i + 1);
                     hasSwap = true;
@@ -115,8 +115,8 @@ public class BubbleSort {
             if (!hasSwap) { // 上一轮若没有交换则提前结束
                 break;
             }
-            hasSwap = false;
-            for (int i = right; i > left; i--) { // 保证originalList[left] 是最小的
+            hasSwap = false; //重置是否交换的标签
+            for (int i = right; i > left; i--) { // 从右到左，由大到小进行交换排序，保证originalList[left] 是最小的
                 if (originalList[i] < originalList[i - 1]) {
                     swap(originalList, i, i - 1);
                     hasSwap = true;
@@ -128,7 +128,7 @@ public class BubbleSort {
             if (!hasSwap) { //上一轮没有交换则提前结束
                 break;
             }
-            hasSwap = false;
+            hasSwap = false; //重置是否交换的标签
         }
         System.out.println("count = " + count);
     }

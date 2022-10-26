@@ -6,7 +6,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
-//选择排序，给一个乱序数组，依次找出最大值 和第一位交换，倒数第二小跟第二位交换，依次交换到末尾即刻，即可排序好， 基于顺序查找实现的
+//选择排序，给一个乱序数组，依次找出最大值 和第一位交换，倒数第二大（未排序数组中的最大的数）跟第二位交换，依次交换到末尾即刻，即可排序好， 基于顺序查找实现的
 public class SelectSort {
 
     public static void main(String[] args) {
@@ -21,18 +21,27 @@ public class SelectSort {
 
     public static int[] sort(int[] array) {
 
-// Arrays.stream(arr) 可以替换成IntStream.of(arr)。
-// 1.使用Arrays.stream将int[]转换成IntStream。
-// 2.使用IntStream中的boxed()装箱。将IntStream转换成Stream<Integer>。
-// 3.使用Stream的collect()，将Stream<T>转换成List<T>，因此正是List<Integer>
-// List<Integer> list1 = Arrays.stream(array).boxed().collect(Collectors.toList());
-
         for (int i = 0; i < array.length; i++) {
-            int[] temp = findMaxNumberAndIndex(array, i);
-            int maxNumber = temp[0];
-            int maxNumberIndex = temp[1];
-            System.out.println("max number is " + maxNumber + "max number index is " + maxNumberIndex);
-            swap(array, i, maxNumberIndex);
+            /**
+             int[] temp = findMaxNumberAndIndex(array, i);
+             int maxNumber = temp[0];
+             int maxNumberIndex = temp[1];
+             System.out.println("max number is " + maxNumber + " max number index is " + maxNumberIndex);
+             */
+
+            int startIndex = i;
+
+            //Find max value and value index
+            int maxNumber = array[startIndex];
+            int maxNumIndex = startIndex;
+            for (int j = startIndex; j < array.length; j++) {
+                if (maxNumber < array[j]) {
+                    maxNumber = array[j];
+                    maxNumIndex = j;
+                }
+            }
+            System.out.println("The " + i + " loop, max number is " + maxNumber + " max number index is " + maxNumIndex);
+            swap(array, i, maxNumIndex);
         }
 
         return array;

@@ -91,7 +91,14 @@ public class BfsDfs {
         }
     }
 
-//    public static int moveAndReturnNumber(int[][] arrays, int a, int b){
+    /**
+     * https://blog.csdn.net/cjxiaobaic/article/details/120307309   使用递归 进行move
+     * @param arrays
+     * @param a
+     * @param b
+     * @return
+     */
+    public static int moveAndReturnNumber(int[][] arrays, int a, int b){
 //        int sum = arrays[0][0];
 //        for(int i = 0; i < arrays.length + arrays[0].length -2; i++) {
 //            System.out.println("loop " + i + " sum is "+ sum);
@@ -112,9 +119,58 @@ public class BfsDfs {
 //            }
 //        }
 //        System.out.println(sum);
-//        return sum;
-//    }
+        return 0;
+    }
 }
 
 //    https://blog.csdn.net/cjxiaobaic/article/details/120307309
+/**
+ * 代码
+ * 代码很少，但是逻辑有点绕，可以配合着我写的思路一起看。
+ *
+ * public class Test {
+ *     public static int sum = 0;
+ *     public static void main(String[] args) {
+ *         //m*n 方格 要求最短路径从左上角到右下角 有多少种走法
+ *         int[][] temp = {
+ *         {0,0,0,0,0,0,0,0},
+ *         {0,0,0,0,0,0,0,0},
+ *         {0,0,0,0,0,0,0,0},
+ *         {0,0,0,0,0,0,0,0},
+ *         {0,0,0,0,0,0,0,0},
+ *         {0,0,0,0,0,0,0,0},
+ *         {0,0,0,0,0,0,0,0},
+ *         {0,0,0,0,0,0,0,0},
+ *         };
+ *         move(0, 0, temp);
+ *         System.out.println(sum);
+ *     }
+ *     //最短所以只能向下后向右走
+ *     public static int move(int a, int b, int[][] temp){
+ *         //向下
+ *         int down = a + 1;
+ *         //向右
+ *         int right = b + 1;
+ *         //判断边界，数组的最大长度
+ *         //向右
+ *         if(right < temp[a].length){
+ *             move(a, right, temp);
+ *         }
+ *         //向下
+ *         if(down < temp.length){
+ *             move(down, b, temp);
+ *         }
+ *         //走到没法在调用这两个方法判断是否为出口
+ *         if((a == (temp.length-1)) && (b == (temp[a].length-1)) ){
+ *             sum ++ ;
+ *         }
+ *         return 0;
+ *     }
+ * }
+ *
+ * 结果
+ * ————————————————
+ * 版权声明：本文为CSDN博主「只道一别珍重」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
+ * 原文链接：https://blog.csdn.net/cjxiaobaic/article/details/120307309
+ */
 
